@@ -11,8 +11,10 @@
 - Capybara
 
 ## Live Demo (if available)
+- none
 
-[live demo](https://recentcoinapp.herokuapp.com/)
+## Link to front end
+https://github.com/Emmykage/hello-react-front-end/tree/dev
 
 ## Getting Started
 

@@ -12,7 +12,11 @@
 
 ## Live Demo (if available)
 
-[live demo](https://recentcoinapp.herokuapp.com/)
+- none
+
+## Link to front end
+https://github.com/Emmykage/hello-react-front-end/tree/dev
+
 
 ## Getting Started
 
